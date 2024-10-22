@@ -1,0 +1,4 @@
+USER,Admin,1234,1
+BOOK,Kürk Mantolu Madonna,Sabahattin Ali,0
+BOOK,1984,George Orwell,0
+ENDUSER
